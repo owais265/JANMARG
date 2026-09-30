@@ -32,3 +32,15 @@ npm run typecheck
 ```
 
 Copy `.env.example` if you need local keys. `XAI_API_KEY` is optional and stays on the server. JAGO still answers from the reviewed notes when that key is absent.
+
+## Deploy on Vercel
+
+The build already targets Vercel (`nitro` preset). After the project is imported:
+
+1. Open the Vercel project → **Settings** → **Environment Variables**.
+2. Name: `XAI_API_KEY`
+3. Value: the key from the xAI console. Do not commit it.
+4. Apply it to Production, then **Redeploy**.
+
+Do not name it `VITE_XAI_API_KEY`. A `VITE_` name is bundled into the public site. `XAI_API_KEY` is read only on the server, when JAGO answers or reads a picture.
+
