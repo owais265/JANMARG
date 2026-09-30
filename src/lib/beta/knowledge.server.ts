@@ -1,4 +1,3 @@
-import { env } from "@/lib/env.server";
 import { getSql } from "@/lib/db";
 import { CORPUS_VERSION, PASSAGES, type Passage } from "./corpus";
 import { JAGO_ENABLED, JAGO_FALLBACK } from "./content";
@@ -116,7 +115,7 @@ async function compose(
   file: string,
   history: { role: "user" | "assistant"; text: string }[],
 ): Promise<string | null> {
-  const apiKey = env("XAI_API_KEY");
+  const apiKey = process.env["XAI_API_KEY"]?.trim();
   if (!apiKey) return null;
   const key = `v3:${language}:${file.slice(0, 80)}:${history.map((turn) => turn.text).join("|").slice(-160)}:${question.toLowerCase().replace(/\s+/g, " ").slice(0, 180)}`;
   const hit = cache.get(key);

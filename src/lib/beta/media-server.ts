@@ -1,5 +1,4 @@
 import { createServerFn } from "@tanstack/react-start";
-import { env } from "@/lib/env.server";
 
 const hits = new Map<string, number[]>();
 
@@ -12,7 +11,7 @@ function limited(bucket: string, max: number) {
 }
 
 function key() {
-  return env("XAI_API_KEY") ?? "";
+  return process.env["XAI_API_KEY"]?.trim() ?? "";
 }
 
 const STT_LANG: Record<string, string> = {
