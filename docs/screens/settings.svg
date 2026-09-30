@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="JANMARG settings">
+  <rect width="390" height="844" rx="36" fill="#e7e0d4"/>
+  <rect x="12" y="12" width="366" height="820" rx="28" fill="#f4efe6"/>
+  <text x="28" y="52" font-family="Georgia, serif" font-size="20" fill="#146b45">JANMARG</text>
+  <text x="28" y="92" font-family="Georgia, serif" font-size="28" fill="#14241c">Settings</text>
+  <rect x="24" y="120" width="342" height="88" rx="18" fill="#fff" stroke="#e4ddd2"/>
+  <circle cx="64" cy="164" r="22" fill="#146b45"/>
+  <text x="64" y="170" text-anchor="middle" font-family="system-ui" font-size="14" fill="#f7f3ea">B</text>
+  <text x="100" y="158" font-family="system-ui" font-size="16" font-weight="600" fill="#14241c">Practice file</text>
+  <text x="100" y="180" font-family="system-ui" font-size="12" fill="#5c6b63">Connected · no Aadhaar or bank</text>
+  <rect x="24" y="224" width="342" height="64" rx="16" fill="#fff" stroke="#e4ddd2"/>
+  <text x="40" y="250" font-family="system-ui" font-size="14" font-weight="600" fill="#14241c">Language</text>
+  <text x="40" y="270" font-family="system-ui" font-size="12" fill="#5c6b63">English · Hindi · 10 more</text>
+  <rect x="24" y="304" width="342" height="64" rx="16" fill="#fff" stroke="#e4ddd2"/>
+  <text x="40" y="330" font-family="system-ui" font-size="14" font-weight="600" fill="#14241c">DigiLocker</text>
+  <text x="40" y="350" font-family="system-ui" font-size="12" fill="#146b45">Connect a practice file</text>
+  <rect x="24" y="384" width="342" height="64" rx="16" fill="#fff" stroke="#e4ddd2"/>
+  <text x="40" y="410" font-family="system-ui" font-size="14" font-weight="600" fill="#14241c">Ask to delete account</text>
+  <text x="40" y="430" font-family="system-ui" font-size="12" fill="#5c6b63">No document uploads are kept here</text>
+  <rect x="24" y="756" width="342" height="60" rx="18" fill="#fff" stroke="#e4ddd2"/>
+  <text x="58" y="791" font-family="system-ui" font-size="12" fill="#5c6b63">Home</text>
+  <text x="140" y="791" font-family="system-ui" font-size="12" fill="#5c6b63">Schemes</text>
+  <text x="228" y="791" font-family="system-ui" font-size="12" fill="#5c6b63">JAGO</text>
+  <text x="300" y="791" font-family="system-ui" font-size="12" fill="#146b45">Settings</text>
+</svg>

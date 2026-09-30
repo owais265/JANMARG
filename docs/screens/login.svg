@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="JANMARG sign-in">
+  <rect width="390" height="844" rx="36" fill="#0f2a1d"/>
+  <rect x="12" y="12" width="366" height="820" rx="28" fill="#146b45"/>
+  <rect x="163" y="228" width="64" height="64" rx="16" fill="#f4efe6"/>
+  <text x="195" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#146b45">JM</text>
+  <text x="195" y="338" text-anchor="middle" font-family="Georgia, serif" font-size="42" fill="#f7f3ea">JANMARG</text>
+  <rect x="24" y="520" width="342" height="292" rx="28" fill="#f4efe6"/>
+  <text x="48" y="568" font-family="system-ui, sans-serif" font-size="26" font-weight="600" fill="#14241c">Sign in</text>
+  <text x="48" y="594" font-family="system-ui, sans-serif" font-size="13" fill="#5c6b63">Continue to your scholarship file</text>
+  <rect x="48" y="616" width="294" height="44" rx="14" fill="#146b45"/>
+  <text x="195" y="644" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#f7f3ea">Continue as guest</text>
+  <rect x="48" y="672" width="294" height="44" rx="14" fill="#fff" stroke="#d7d0c4"/>
+  <text x="195" y="700" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" fill="#14241c">Email and password</text>
+  <text x="195" y="748" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#5c6b63">or continue with Google / X</text>
+</svg>

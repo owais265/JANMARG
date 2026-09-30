@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="JANMARG JAGO chat">
+  <rect width="390" height="844" rx="36" fill="#e7e0d4"/>
+  <rect x="12" y="12" width="366" height="820" rx="28" fill="#f4efe6"/>
+  <text x="36" y="48" font-family="system-ui" font-size="20" fill="#14241c">☰</text>
+  <text x="195" y="48" text-anchor="middle" font-family="system-ui" font-size="15" font-weight="600" fill="#14241c">JAGO</text>
+  <text x="348" y="48" text-anchor="middle" font-family="system-ui" font-size="18" fill="#14241c">✎</text>
+  <text x="195" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#146b45">JAGO</text>
+  <text x="195" y="392" text-anchor="middle" font-family="system-ui" font-size="13" fill="#5c6b63">Ask about a scheme, a paper, or this file</text>
+  <rect x="24" y="668" width="132" height="32" rx="16" fill="#fff" stroke="#e4ddd2"/>
+  <text x="90" y="689" text-anchor="middle" font-family="system-ui" font-size="11" fill="#14241c">Documents for that?</text>
+  <rect x="164" y="668" width="100" height="32" rx="16" fill="#fff" stroke="#e4ddd2"/>
+  <text x="214" y="689" text-anchor="middle" font-family="system-ui" font-size="11" fill="#14241c">What next?</text>
+  <rect x="20" y="712" width="350" height="52" rx="26" fill="#fff" stroke="#d7d0c4"/>
+  <circle cx="46" cy="738" r="16" fill="#f4efe6"/>
+  <text x="46" y="743" text-anchor="middle" font-family="system-ui" font-size="16" fill="#14241c">+</text>
+  <text x="74" y="744" font-family="system-ui" font-size="13" fill="#9aa39c">Ask JAGO</text>
+  <circle cx="348" cy="738" r="16" fill="#146b45"/>
+  <rect x="24" y="780" width="342" height="40" rx="14" fill="#fff"/>
+  <text x="58" y="805" font-family="system-ui" font-size="12" fill="#5c6b63">Home</text>
+  <text x="140" y="805" font-family="system-ui" font-size="12" fill="#5c6b63">Schemes</text>
+  <text x="228" y="805" font-family="system-ui" font-size="12" fill="#146b45">JAGO</text>
+  <text x="300" y="805" font-family="system-ui" font-size="12" fill="#5c6b63">Settings</text>
+</svg>

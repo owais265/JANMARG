@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="JANMARG document wallet">
+  <rect width="390" height="844" rx="36" fill="#e7e0d4"/>
+  <rect x="12" y="12" width="366" height="820" rx="28" fill="#f4efe6"/>
+  <text x="28" y="52" font-family="Georgia, serif" font-size="20" fill="#146b45">JANMARG</text>
+  <text x="28" y="92" font-family="Georgia, serif" font-size="28" fill="#14241c">Documents</text>
+  <text x="28" y="118" font-family="system-ui" font-size="13" fill="#5c6b63">Verify once. Reuse on the other schemes.</text>
+  <g font-family="system-ui">
+    <rect x="24" y="140" width="342" height="72" rx="16" fill="#fff" stroke="#e4ddd2"/>
+    <text x="40" y="170" font-size="15" font-weight="600" fill="#14241c">ST certificate</text>
+    <text x="40" y="192" font-size="12" fill="#146b45">Reusable</text>
+    <rect x="24" y="224" width="342" height="72" rx="16" fill="#fff" stroke="#e4ddd2"/>
+    <text x="40" y="254" font-size="15" font-weight="600" fill="#14241c">Income certificate</text>
+    <text x="40" y="276" font-size="12" fill="#b45309">Needs review</text>
+    <rect x="24" y="308" width="342" height="72" rx="16" fill="#fff" stroke="#e4ddd2"/>
+    <text x="40" y="338" font-size="15" font-weight="600" fill="#14241c">Institute letter</text>
+    <text x="40" y="360" font-size="12" fill="#146b45">Reusable</text>
+    <rect x="24" y="392" width="342" height="72" rx="16" fill="#fff" stroke="#e4ddd2"/>
+    <text x="40" y="422" font-size="15" font-weight="600" fill="#14241c">Marksheet</text>
+    <text x="40" y="444" font-size="12" fill="#5c6b63">Missing</text>
+    <rect x="24" y="476" width="342" height="72" rx="16" fill="#fff" stroke="#e4ddd2"/>
+    <text x="40" y="506" font-size="15" font-weight="600" fill="#14241c">Disability certificate</text>
+    <text x="40" y="528" font-size="12" fill="#5c6b63">Not on this file</text>
+  </g>
+  <rect x="24" y="756" width="342" height="60" rx="18" fill="#fff" stroke="#e4ddd2"/>
+  <text x="58" y="791" font-family="system-ui" font-size="12" fill="#5c6b63">Home</text>
+  <text x="140" y="791" font-family="system-ui" font-size="12" fill="#146b45">Schemes</text>
+  <text x="228" y="791" font-family="system-ui" font-size="12" fill="#5c6b63">JAGO</text>
+  <text x="300" y="791" font-family="system-ui" font-size="12" fill="#5c6b63">Settings</text>
+</svg>

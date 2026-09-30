@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="JANMARG desktop judge view">
+  <rect width="960" height="540" fill="#0f2a1d"/>
+  <text x="48" y="72" font-family="system-ui" font-size="12" letter-spacing="3" fill="#e7d7b4">MINISTRY OF TRIBAL AFFAIRS</text>
+  <text x="48" y="160" font-family="Georgia, serif" font-size="72" fill="#f7f3ea">JANMARG</text>
+  <text x="48" y="210" font-family="system-ui" font-size="16" fill="#d9e4db">One student path across five scholarships.</text>
+  <text x="48" y="236" font-family="system-ui" font-size="16" fill="#d9e4db">See what is stuck, what is verified, and when money moves.</text>
+  <rect x="560" y="24" width="372" height="492" rx="28" fill="#f4efe6"/>
+  <text x="746" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#146b45">JANMARG</text>
+  <text x="588" y="104" font-family="Georgia, serif" font-size="22" fill="#14241c">Home</text>
+  <rect x="580" y="124" width="332" height="64" rx="14" fill="#fff" stroke="#e4ddd2"/>
+  <text x="596" y="150" font-family="system-ui" font-size="14" fill="#14241c">Post-Matric</text>
+  <text x="596" y="170" font-family="system-ui" font-size="11" fill="#146b45">Verification</text>
+  <rect x="580" y="200" width="332" height="64" rx="14" fill="#fff" stroke="#e4ddd2"/>
+  <text x="596" y="226" font-family="system-ui" font-size="14" fill="#14241c">Pre-Matric</text>
+  <text x="596" y="246" font-family="system-ui" font-size="11" fill="#5c6b63">Not submitted</text>
+  <rect x="580" y="430" width="332" height="52" rx="16" fill="#fff" stroke="#e4ddd2"/>
+  <text x="620" y="461" font-family="system-ui" font-size="11" fill="#146b45">Home</text>
+  <text x="690" y="461" font-family="system-ui" font-size="11" fill="#5c6b63">Schemes</text>
+  <text x="770" y="461" font-family="system-ui" font-size="11" fill="#5c6b63">JAGO</text>
+  <text x="840" y="461" font-family="system-ui" font-size="11" fill="#5c6b63">Settings</text>
+</svg>
