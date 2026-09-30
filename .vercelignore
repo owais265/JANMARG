@@ -1,0 +1,5 @@
+node_modules
+attachments
+screenshots
+.grok/preview.log
+*.zip
