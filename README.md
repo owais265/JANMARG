@@ -129,4 +129,21 @@ These frames follow the shipped UI: deep green authentication, cream phone colum
 
 ## 4. Feature design, in depth
 
-See the rest of this README on GitHub for architecture, JAGO, verification, data, judging criteria, run and deploy.
+A scheme that has not been started is **Not submitted**. A started scheme shows Submission, Verification, Sanction and Disbursement. DigiLocker lives in Settings. A checked document can be reused. A mismatch goes to review. Payments are a status list, not a bank credit. JAGO is locker-first hybrid retrieval with a policy gate. The model key stays on the server.
+
+Adapters for NSP, DBT, Canara SFMP, DigiLocker, AISHE, UDISE+, APAAR, UIDAI and UGC-NTA use one shape: match, mismatch or unavailable. Mismatch opens review. They are practice-filled in this build.
+
+## 5. Run and deploy
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:8080`. Then `npm test` and `npm run typecheck`.
+
+Vercel environment variable name: `XAI_API_KEY`. Do not use `VITE_XAI_API_KEY`. Do not set `DATABASE_URL` if you want the published preview behaviour.
+
+Team: Vercel **prograckers** / **jnmarg**. Supabase **mankmitra3.0**.
+
+Official rules: [tribal.nic.in/ScholarshiP.aspx](https://tribal.nic.in/ScholarshiP.aspx).
